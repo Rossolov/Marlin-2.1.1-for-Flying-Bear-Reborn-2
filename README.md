@@ -5,3 +5,10 @@ Prebuilded version for default hardware with interface MKS UI in "prebuilded" fo
 
 Reference:
 https://marlinfw.org/
+
+For correct bed levelling please set correct coordinates:
+  Point1 - 25   25
+  Point2 - 25   295
+  Point3 - 295  295
+  Point4 - 295  25
+  
