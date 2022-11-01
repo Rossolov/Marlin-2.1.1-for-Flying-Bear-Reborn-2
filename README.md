@@ -7,9 +7,7 @@ Reference:
 https://marlinfw.org/
 
 For correct bed levelling please set correct coordinates:
-
 Point1 - 25   25
-
 Point2 - 25   295
 
 Point3 - 295  295
